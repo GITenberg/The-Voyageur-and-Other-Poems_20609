@@ -20,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3144
     wikipedia: http://en.wikipedia.org/wiki/William_Henry_Drummond
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20609#The-Voyageur-and-Other-Poems
 gutenberg_bookshelf: Canada
 gutenberg_issued: '2007-02-16'
 gutenberg_type: Text
