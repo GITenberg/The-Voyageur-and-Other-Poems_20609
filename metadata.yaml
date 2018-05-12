@@ -1,0 +1,36 @@
+_repo: The-Voyageur-and-Other-Poems_20609
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Coburn, Frederick Simpson
+    alias: Coburn, F. S. (Frederick Simpson)
+    birthdate: 1871
+    deathdate: 1960
+    gutenberg_agent_id: '9412'
+    url: http://www.gutenberg.org/2009/agents/9412
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Drummond, William Henry
+    birthdate: 1854
+    deathdate: 1907
+    gutenberg_agent_id: '3144'
+    url: http://www.gutenberg.org/2009/agents/3144
+    wikipedia: http://en.wikipedia.org/wiki/William_Henry_Drummond
+description: ''
+gutenberg_bookshelf: Canada
+gutenberg_issued: '2007-02-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20609'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Poetry'
+- !lcc 'PS'
+title: The Voyageur and Other Poems
+url: http://www.gutenberg.org/ebooks/20609
